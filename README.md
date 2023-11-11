@@ -10,5 +10,3 @@ Website :
 Docs Report : 
 
 Presentation Video : 
-
-Slides Presentation :
