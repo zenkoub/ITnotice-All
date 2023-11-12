@@ -5,7 +5,7 @@ PSCP Project1/2023 กลุ่ม Introvet-SEC1
 
 Front-End : https://github.com/zenkoub/ITnotice
 
-Back-End : https://github.com/zenkoub/ITnotice-core
+Back-End : https://github.com/Zensos/itnotice-core
 
 Website : 
 
